@@ -12,14 +12,13 @@ This dataset contains key medical and lifestyle factors related to heart disease
 ### 2. Mobile Dataset 2025
 This dataset includes specifications and pricing information of mobile phones. Below is a sample of the data:
 
-![Mobile Dataset Sample](images/marriage_data.png)
+![Mobile Dataset Sample](images/Mobile_Phone.png)
 
 ---
 
-### 3. Marriage Data (India)
 This dataset explores marriage trends, including factors like education level and marriage type. Below is a sample of the data:
 
-![Marriage Dataset Sample](images/Mobile Phone.png")
+![Marriage Dataset Sample](images/marriage_data.png)
 
 ---
 
