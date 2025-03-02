@@ -51,4 +51,4 @@ We selected these three datasets and performed a series of visualizations, follo
 - plotly
 
 ## Summary
-For more detailed analysis, please refer to the Homework 1.1 document.
+For more detailed analysis, please refer to the Homework 1.1_report.pdf.
