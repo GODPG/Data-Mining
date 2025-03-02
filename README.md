@@ -2,9 +2,27 @@
 
 In this project, we selected three datasets for visualization and analysis:
 
-1. **Heart Attack Prediction Dataset (India)**
-2. **Mobile Dataset 2025**
-3. **Marriage Data (India)**
+### 1. Heart Attack Prediction Dataset (India)
+This dataset contains key medical and lifestyle factors related to heart disease risk. Below is a sample of the data:
+
+![Heart Attack Dataset Sample]("F:\数据挖掘\Homework 1.1\pictures\heart_attack_predictions.png")
+
+---
+
+### 2. Mobile Dataset 2025
+This dataset includes specifications and pricing information of mobile phones. Below is a sample of the data:
+
+![Mobile Dataset Sample]("F:\数据挖掘\Homework 1.1\pictures\marriage_data.png")
+
+---
+
+### 3. Marriage Data (India)
+This dataset explores marriage trends, including factors like education level and marriage type. Below is a sample of the data:
+
+![Marriage Dataset Sample]("F:\数据挖掘\Homework 1.1\pictures\Mobile Phone.png")
+
+---
+
 
 ## Visualizations and Analysis
 
@@ -32,9 +50,4 @@ We selected these three datasets and performed a series of visualizations, follo
 - seaborn
 - matplotlib
 - plotly
-
-## Installation
-You can install the required dependencies using pip:
-
-```bash
-pip install -r requirements.txt
+- 
